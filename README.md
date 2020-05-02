@@ -1,4 +1,16 @@
 # Kickstarter Campaigns Analysis
+
+## Project Overview
+This module is a deep dive into Excel, a tool that can be used across all areas of life, from household budgeting to complex financial analysis. Learning the intricacies of Excel will draw on (and enhance) skills we may have already, like computer literacy, data literacy, and quantitative reasoning.
+## Resources
+Software: Excel
+
+## Objectives
+Use filters and Excel formula to create new datasets
+Create visualizations using Excel charts and pivot tables
+Interpret the summary data provided from the visualizations
+
+## Summery of Challenge
 We are given a data set from KickStarter campaigns for different categories and sub-categories. The data set includes many data columns, but we focus on the campaign start date, deadline, goal and the final outcome, in terms of number of campaigns (not the total pledged value)
 
 
